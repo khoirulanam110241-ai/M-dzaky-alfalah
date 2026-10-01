@@ -1,0 +1,6 @@
+{
+  "name": "Alun-Alun Pancasila Kota Salatiga",
+  "description": "Landing page resmi destinasi wisata Alun-Alun Pancasila di pusat kota Salatiga. Oase ruang terbuka hijau untuk lari pagi, rekreasi, fasilitas lengkap, dan jajan santai keluarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
